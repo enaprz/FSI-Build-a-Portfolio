@@ -1,0 +1,16 @@
+
+body {
+    background-color: blanchedalmond; 
+    font-family: tahoma, Geneva, Sans-serif; }
+h1 {
+    color: pink; text-align: center; background-color: cadetblue;
+    border-radius: 3rem ;
+ }
+p {
+    color: black; background-color: pink; border-radius: 1rem ;
+}
+h3 { background-color: plum;
+border-radius: 2rem;}
+h2 { text-align: center; color:deeppink; background-color: plum; border-style: dotted; 
+    border-radius: 1rem; }
+    cursor { cursor: grab; cursor: hoover;} 
