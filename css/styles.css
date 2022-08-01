@@ -13,7 +13,7 @@ h3 { background-color: plum;
 border-radius: 2rem;}
 h2 { text-align: center; color:deeppink; background-color: plum; border-style: dotted; 
     border-radius: 1rem; }
-    cursor { cursor: grab; cursor: hoover;} 
+    cursor { cursor: grab; cursor: hover;} 
     img {
         border: 5px solid #555;
       }
