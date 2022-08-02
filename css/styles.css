@@ -17,3 +17,4 @@ h2 { text-align: center; color:deeppink; background-color: plum; border-style: d
     img {
         border: 5px solid #555;
       }
+ p.a { font-style: italic; }    
